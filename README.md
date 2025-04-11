@@ -1,7 +1,7 @@
 # 🚀 Primeiro Projeto front-end
 
 ### 📌 Descrição
-Este é um projeto de front-end que será desenvolvido utilizando HTML, CSS e futuramente implementado com JavaScript para adicionar interatividade. O objetivo principal é criar uma aplicação moderna e responsiva, proporcionando uma ótima experiência para os usuários.
+Este é um projeto de front-end que será desenvolvido utilizando HTML, CSS e futuramente implementado com JavaScript para adicionar interatividade. O objetivo principal é criar uma aplicação moderna e responsiva, proporcionando uma ótima experiência para os usuários, e como exemplo disso, estou criando um site de uma empresa de Mármore e Granitos, que é um forte mercado na minha cidade natal: Cachoeiro de Itapemirim.
 
 ### 🛠 Tecnologias Utilizadas
 - HTML5
